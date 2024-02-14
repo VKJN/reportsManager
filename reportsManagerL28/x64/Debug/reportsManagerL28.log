@@ -1,0 +1,10 @@
+﻿  MonthReport.cpp
+D:\C++\OOP\reportsManagerL28\MonthReport.cpp(39,49): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+  ReaderCsv.cpp
+D:\C++\OOP\reportsManagerL28\ReaderCsv.cpp(63,41): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Report.cpp
+  reportsManagerL28.cpp
+  Transaction.cpp
+  YearReport.cpp
+  Создание кода...
+  reportsManagerL28.vcxproj -> D:\C++\OOP\reportsManagerL28\x64\Debug\reportsManagerL28.exe
