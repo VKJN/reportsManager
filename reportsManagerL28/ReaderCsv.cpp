@@ -20,7 +20,7 @@ string ReaderCsv::getFileName(string path) {
 
     for (int i = 0; i < path.size(); i++) {
         if (path[i] != '\\') {
-            name += name + path[i];
+            name += path[i];
         }
         else {
             break;
